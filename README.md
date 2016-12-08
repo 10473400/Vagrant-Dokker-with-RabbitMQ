@@ -1,0 +1,1 @@
+# Vagrant-Dokker-with-RabbitMQ
